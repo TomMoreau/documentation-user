@@ -1,10 +1,10 @@
 =====================
-Organize the pipeline 
+Organize the pipeline
 =====================
 
 .. toctree::
    :titlesonly:
 
-   ../discuss/plan_activities
+   ../../productivity/discuss/overview/plan_activities
    pipeline/lost_opportunities
    pipeline/multi_sales_team

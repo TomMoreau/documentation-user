@@ -1,4 +1,3 @@
-:banner: banners/deploying_odoo.jpg
 
 ==============
 Deploying Odoo

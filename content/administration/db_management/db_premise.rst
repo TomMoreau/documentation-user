@@ -1,4 +1,3 @@
-:banner: banners/db_premise.jpg
 
 .. _db_premise:
 

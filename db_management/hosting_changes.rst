@@ -1,4 +1,3 @@
-:banner: banners/hosting_changes.png
 
 .. _db_management/hosting_changes:
 

@@ -1,4 +1,3 @@
-:banner: banners/build_a_theme.jpg
 
 =====================
 Theme Tutorial

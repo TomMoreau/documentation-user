@@ -1,4 +1,3 @@
-:banner: banners/mobile.jpg
 :types: api
 
 .. _reference/mobile:

@@ -1,4 +1,3 @@
-:banner: banners/contributing.png
 
 =================================
 Contributing to the documentation

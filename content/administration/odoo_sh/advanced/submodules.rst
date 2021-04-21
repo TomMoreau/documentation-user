@@ -1,4 +1,3 @@
-:banner: banners/odoo-sh.jpg
 
 .. _odoosh-advanced-submodules:
 

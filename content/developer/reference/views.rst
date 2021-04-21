@@ -1,4 +1,3 @@
-:banner: banners/views.jpg
 
 .. highlight:: xml
 .. _reference/views:

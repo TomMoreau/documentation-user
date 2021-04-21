@@ -1,4 +1,3 @@
-:banner: banners/contributing.png
 
 ===============
 RST cheat sheet
@@ -478,7 +477,6 @@ Add banners on top of documents
    <span class="badge" style="background-color:#AD5E99">Odoo feature</span>
 
 The Odoo theme supports banner images at the top of documents. At the first line of your documents,
-insert the directive ``:banner: banners/file_name.png``. Replace ``file_name.png`` with the file
 that you placed in :file:`_static/banners` to server as a banner of your document.
 
 .. _contributing/line-break:

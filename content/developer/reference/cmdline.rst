@@ -1,4 +1,3 @@
-:banner: banners/cmdline.jpg
 
 .. _reference/cmdline:
 

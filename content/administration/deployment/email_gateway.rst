@@ -1,4 +1,3 @@
-:banner: banners/email_gateway.jpg
 
 ==================
 Odoo email gateway

@@ -1,4 +1,3 @@
-:banner: banners/sign.jpg
 :orphan:
 :custom-css: legal.css
 

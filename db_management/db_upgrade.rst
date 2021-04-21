@@ -1,4 +1,3 @@
-:banner: banners/db-upgrade.png
 
 .. |assistance-contact| replace::
    If you need Odoo assistance on this matter, please contact your Odoo Account Manager or contact

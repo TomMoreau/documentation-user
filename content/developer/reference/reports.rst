@@ -1,4 +1,3 @@
-:banner: banners/reports.jpg
 
 .. highlight:: xml
 

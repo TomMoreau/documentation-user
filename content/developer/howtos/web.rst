@@ -1,4 +1,3 @@
-:banner: banners/build_interface_ext.jpg
 
 =============================
 Customizing the web client

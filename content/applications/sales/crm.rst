@@ -1,4 +1,3 @@
-:banner: banners/crm.jpg
 
 ===
 CRM

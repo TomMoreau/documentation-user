@@ -1,4 +1,3 @@
-:banner: banners/manufacturing.jpg
 
 =================
 Repair Management

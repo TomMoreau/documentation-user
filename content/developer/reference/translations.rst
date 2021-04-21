@@ -1,4 +1,3 @@
-:banner: banners/translate.jpg
 
 .. _reference/translations:
 

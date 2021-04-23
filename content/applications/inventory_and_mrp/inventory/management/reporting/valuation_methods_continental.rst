@@ -356,5 +356,5 @@ Let's take the case of a reseller.
 .. seealso::
 
   * :doc:`../../routes/strategies/removal`
-  * :doc:`../../../accounting/others/inventory/avg_price_valuation`
+  * :doc:`../../../../finance/accounting/others/inventory/avg_price_valuation`
   * :doc:`../../routes/costing/landed_costs`

@@ -6,7 +6,7 @@ Creating a Localization
 .. warning::
 
     This tutorial requires knowledges about how to build a module in Odoo (see
-    :doc:`../../howtos/backend`).
+    :doc:`../howtos/backend`).
 
 Building a localization module
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
